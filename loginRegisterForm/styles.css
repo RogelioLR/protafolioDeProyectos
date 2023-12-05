@@ -1,0 +1,63 @@
+:root {
+    /* Colores */
+    --b9d: #b9d7d9;
+    --668: #668284;
+    --2a2: #2a2829;
+    --493: #493736;
+    --7b3: #7b3b3b;
+
+    /* Fuentes de Texto */
+    --dmsans: "DM Sans"
+    --sans: "sans-serif"
+}
+
+/* Background */
+body {
+    background-color: var(--668);
+    font-family: var(--dmsans);
+}
+
+#navbar {
+    background-color: var(--b9d);
+    border-bottom: 2px solid azure;
+    font-family: var(--dmsans);
+}
+
+#headerForm {
+    border: var(--2a2) solid 2px;
+    border-radius: 50px;
+    padding: 10px;
+    background-color: var(--7b3);
+    width: 50%;
+}
+
+#formDiv {
+    border: var(--2a2) solid 2px;
+    padding: 25px;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-bottom: 20%;
+    background-color: var(--b9d);
+}
+
+#buttonSend, #buttonRegLog {
+    background-color: cornflowerblue;
+    border: 2px solid #2a2829 ;
+    width: 200px;
+}
+
+#buttonSend:hover, #buttonRegLog:hover {
+    background-color: rgba(40, 90, 182, 0.667);
+    border-color: azure;
+    color: azure;
+}
+
+#buttonSend:active, #buttonReg:hover{
+    background-color: rgb(49, 101, 198) ;
+}
+
+#image {
+    width: 50%;
+    margin-top: 60px;
+    margin-left: 150px;
+}

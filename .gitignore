@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-api-fetch/node_modules
+/react-api-fetch/.pnp
+/react-api-fetch/.pnp.js
+
+# testing
+/react-api-fetch/coverage
+
+# production
+/react-api-fetch/build
+
+# misc
+/react-api-fetch/.DS_Store
+/react-api-fetch/.env.local
+/react-api-fetch/.env.development.local
+/react-api-fetch/.env.test.local
+/react-api-fetch/.env.production.local
+
+/react-api-fetch/npm-debug.log*
+/react-api-fetch/yarn-debug.log*
+/react-api-fetch/yarn-error.log*
