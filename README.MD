@@ -26,3 +26,9 @@ Es una aplicación construida con REACT, cuyo objetivo es realizar una solicitud
 obtener una lista de usuarios que es mostrada en pantalla de forma responsiva usando MUI.
 /**REACT**/**MUI**/
 
+* Casi Palindromo JAVA:
+
+Es un algoritmo que verifica si una palabra es casi palíndromo con el cambio de una sola letra.
+La función debe aceptar un texto y retornar con true si la palabra es casi palíndromo, de lo contrario 
+retornar false. /**JAVA**/**JUnit**/
+
