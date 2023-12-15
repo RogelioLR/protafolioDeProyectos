@@ -32,3 +32,10 @@ Es un algoritmo que verifica si una palabra es casi palíndromo con el cambio de
 La función debe aceptar un texto y retornar con true si la palabra es casi palíndromo, de lo contrario 
 retornar false. /**JAVA**/**JUnit**/
 
+* Cajero Automatico JAVA:
+
+Es un menu de un cajero automatico programado en JAVA, el cual tiene las opciones de retiro, 
+deposito, consulta de saldo, quejas, ultimos movimientos, y salir. Todo configurado dinamicamente, 
+haciendo uso de clases y objetos. /**Java**/
+
+
